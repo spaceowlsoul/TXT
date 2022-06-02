@@ -1,1 +1,9 @@
-
+Id: 5
+Component: HOME	
+Type: Visual
+Summary: Logo is partially hidden behind the main menu and announcements.
+URL: https://qatest-dev.indvp.com/
+STR: Open the home page to see the logo is partially hidden behind the main menu sections and announcements.
+Expected Result: Logo is fully visible and matches the design.
+Actual Result: Logo is partially visible.
+Screenshot: https://www.screencast.com/t/hmBVvKgLzgcf
