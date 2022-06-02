@@ -1,0 +1,6 @@
+Name: Yulia
+Last name: Tustova
+Patronymic: Olegovna
+Age: 26
+Pets: 1
+Desired salary: 1000$
