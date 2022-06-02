@@ -1,0 +1,19 @@
+Skills to study:
+1) client-service architecture;
+2) Http methods;
+3) Json;
+4) Xml;
+5) API;
+6) Postman;
+7) Charles sniffing;
+8) Fiddler;
+9) Dev_Tools;
+10) VPN;
+11) Mobile testing;
+12) Android studio;
+13) Bash terminal;
+14) Javascript;
+15) SQL;
+16) Github;
+17) Jmeter.
+
